@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Practice01</string>
+    <string name="Add">+</string>
+    <string name="Delete">-</string>
+    <string name="Tasu">+</string>
+    <string name="Hiku">-</string>
 </resources>
